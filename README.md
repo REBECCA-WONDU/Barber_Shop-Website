@@ -1,16 +1,47 @@
-# React + Vite
+# CLAPPER MENS Barber Shop Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium, mobile-first website for **CLAPPER MENS**, a luxury barber shop located in Addis Ababa.
 
-Currently, two official plugins are available:
+## Features
+- **Premium Design**: Sophisticated "Gold on Black" luxury aesthetic.
+- **Mobile-First**: Fully responsive and optimized for mobile devices.
+- **Booking System**: Easy appointment requests via a streamlined form.
+- **Services Showcase**: Detailed pricing and descriptions for haircuts, beard sculpting, and premium treatments.
+- **Location & Contact**: Integrated maps and direct call buttons for multiple branches.
+- **Gallery**: High-quality photo showcase of the craft.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- **React 19**
+- **Vite 8**
+- **Tailwind CSS 4**
+- **Lucide React Icons**
 
-## React Compiler
+## Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Prerequisites
+- Node.js (Latest version recommended)
 
-## Expanding the ESLint configuration
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/REBECCA-WONDU/Barber_Shop-Website.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+4. Build for production:
+   ```bash
+   npm run build
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Branches
+- **Bole Ambassador (Main)**: Ambassador Hotel 1st floor, Addis Ababa.
+- **Semit Ferde Bet**: Second branch in the Semit area.
+
+---
+© 2026 CLAPPER MENS. Excellence in grooming.
